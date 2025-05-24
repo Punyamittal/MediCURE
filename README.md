@@ -13,6 +13,13 @@ pnpm dev
 # or
 bun dev
 ```
+in case if its still will not work just change the directory
+```bash
+cd art-culture-hub; npm run dev
+```
+
+
+
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
