@@ -4,7 +4,7 @@ readme.txt
 
 #Sleep model project 
 
-In this project i ML(RandomForestClassifier) to predit the sleep quality based on the factors ( lifestyle)
+In this project the ML model (RandomForestClassifier) to predit the sleep quality based on the factors ( lifestyle)
 
 #Files
 - Sleep_model.py (main script)
